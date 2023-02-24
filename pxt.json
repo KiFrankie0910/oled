@@ -1,5 +1,5 @@
 {
-    "name": "oled and light",
+    "name": "fan",
     "description": "",
     "dependencies": {
         "core": "*",
